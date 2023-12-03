@@ -1,0 +1,3 @@
+function configureBar(targetSum,weightList) {
+    
+}
